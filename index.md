@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-sheesh
+$$ \int_a^b x^2  dx $$
