@@ -8,13 +8,19 @@ Feel free to explore!
 # Current Projects
 - GRotate - A Rotary Hydroponics system for my thesis
 - Engineering Toolkit
+- Raspberry Pi Workshop
 
 # Currently Reading
 - East of Eden by John Steinbeck
+- Children of Dune 
+- 
 
 # Currently Learning
 - KiCAD 
-- Blogging
+- Fusion 360
+- Blogging (obviously)
 - Toki Pona
+- Gregg shorthand
 - ASL
+- Microsoft Access
 - Bourrée in E minor Bach
