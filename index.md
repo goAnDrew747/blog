@@ -1,7 +1,7 @@
 ---
 title: Welcome to my blog!
 ---
-I am Andrew, a current senior studying BS Electronics Engineering.
+I am Andrew, a current super-senior studying BS Electronics Engineering.
 This is mostly a compilation of my writing and engineering projects (if there are any).
 Feel free to explore!
 
